@@ -10,7 +10,7 @@ const manifestForPlugin = {
     {
       "src": "icon.jpeg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ],
   "start_url": "./index.html",
