@@ -8,7 +8,7 @@ const manifestForPlugin = {
   "name": "Email Client App",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "icon.jpeg",
       "sizes": "192x192",
       "type": "image/png"
     }
