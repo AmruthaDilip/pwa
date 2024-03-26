@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  background-color: rgb(10, 10, 90);
+  padding: 20px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar button {
+  color: white;
+  background-color: rgb(4, 4, 64);
+  border: none;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.subject-field {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.subject-field label {
+  margin-right: 10px;
+}
+
+.body-field {
+  flex: 1;
+  resize: none;
+  margin-bottom: 10px;
+}
+
+.send-button {
+  align-self: flex-end;
+  background-color: rgb(67, 67, 237);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
