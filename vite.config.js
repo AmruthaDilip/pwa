@@ -8,9 +8,9 @@ const manifestForPlugin = {
   "name": "Email Client App",
   "icons": [
     {
-      "src": "icon.jpeg",
+      "src": "icon.png",
       "sizes": "192x192",
-      "type": "image/jpeg"
+      "type": "image/png"
     }
   ],
   "start_url": "./index.html",
